@@ -1,0 +1,303 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "Artur",
+      "login": "artur@artcompsistemas.com.br",
+      "senha": "art1010",
+      "log": ""
+    },
+    {
+      "id": 2,
+      "nome": "Lislaine",
+      "login": "estetica@hotmail.com",
+      "senha": "1234",
+      "log": ""
+    },
+    {
+      "id": 3,
+      "nome": "Alex",
+      "login": "alex@hotmail.com",
+      "senha": "123",
+      "log": ""
+    },
+    {
+      "id": 4,
+      "nome": "as",
+      "login": "as@ds",
+      "senha": "12"
+    }
+  ],
+  "categoria": [
+    {
+      "id": 1,
+      "titulo": "COMÉDIA",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "OS ESTAGIÁRIOS",
+          "imagem": "https://www.blogvidadecasada.com/wp-content/uploads/2017/08/filmes-de-comedia.jpg",
+          "url": "https://www.youtube.com/embed/iJNvxWemhI4"
+        },
+        {
+          "id": 2,
+          "titulo": "A NOITE É DELAS",
+          "imagem": "https://esposasonline.com.br/wp-content/uploads/2017/11/filmes-de-comedia-para-assitir-a-dois-comedia-cinema-em-casa.jpg",
+          "url": "https://www.youtube.com/embed/Qz41G5CiMXA"
+        },
+        {
+          "id": 3,
+          "titulo": "DEADPOOL",
+          "imagem": "https://4.bp.blogspot.com/-8KmQ7ejlDvo/WmIu4FmOveI/AAAAAAAAYXc/doLVkO_cRZQ0Dkj0lYvujENoJ_IlGnEQgCLcBGAs/s1600/1.jpg",
+          "url": "https://www.youtube.com/embed/Q9X-bAE8KTc"
+        },
+        {
+          "id": 4,
+          "titulo": "AS BRANQUELAS",
+          "imagem": "https://cdn.maioresemelhores.com/imagens/filmes-de-comedia-og.jpg",
+          "url": "https://www.youtube.com/embed/y5nr345eBQ0"
+        },
+        {
+          "id": 5,
+          "titulo": "O ALTO DA COMPADECIDA",
+          "imagem": "https://i2.wp.com/geekness.com.br/wp-content/uploads/2015/02/O_Auto_da_Compadecida.jpg",
+          "url": "https://www.youtube.com/embed/XPuMu_ENzlg"
+        },
+        {
+          "id": 6,
+          "titulo": "BAD BOYS",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkbXG0EWTO3tiBhnBuR_N4uKafWUCQaUd1QXFnGKCbcuIDTeOUQ",
+          "url": "https://www.youtube.com/embed/hsuKq5pNOcM"
+        },
+        {
+          "id": 7,
+          "titulo": "ATÉ QUE A SORTE NOS SEPARE",
+          "imagem": "http://recantoadormecido.com.br/wp-content/uploads/2013/11/AT%C3%89-QUE-A-SORTE-NOS-SEPARE-2-Official-Poster-Banner-PROMO-POSTER-11NOVEMBRO2013-1-890x395.jpg",
+          "url": "https://www.youtube.com/embed/dAnzuTb-A8k"
+        },
+        {
+          "id": 8,
+          "titulo": "SE BEBER NÃO CASE III",
+          "imagem": "http://www.nivelepico.com/wp-content/uploads/2013/05/se-beber-nao-case-3-0.jpg",
+          "url": "https://www.youtube.com/embed/goXS2Pqk6AA"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "SUSPENSE",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "OS SUSPEITOS",
+          "imagem": "https://cdn.cinepop.com.br/2013/10/suspeitos_2-750x380.jpg",
+          "url": "https://www.youtube.com/embed/1GwPisQUuL4"
+        },
+        {
+          "id": 2,
+          "titulo": "ARMAS NA MESA",
+          "imagem": "https://abrilveja.files.wordpress.com/2017/02/blogib_armas-na-mesa_feat.jpg",
+          "url": "https://www.youtube.com/embed/591hCwxsNsM"
+        },
+        {
+          "id": 3,
+          "titulo": "BONECO DE NEVE",
+          "imagem": "https://i.ytimg.com/vi/qy9rg5ZyuOA/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/62yg7WaT4LQ"
+        },
+        {
+          "id": 4,
+          "titulo": "A LEI É PARA TODOS",
+          "imagem": "http://www.vermelho.org.br/admin/arquivos/biblioteca/policia_federal_filme113471.png",
+          "url": "https://www.youtube.com/embed/kUP0MLsvpOY"
+        },
+        {
+          "id": 5,
+          "titulo": "DEJAVU",
+          "imagem": "https://oblogdozarko.files.wordpress.com/2009/09/obdz-dejavu.jpg?w=450&h=225",
+          "url": "https://www.youtube.com/embed/jUADX18QZqM"
+        },
+        {
+          "id": 6,
+          "titulo": "FRAGMENTADO",
+          "imagem": "https://i0.wp.com/cabanadoleitor.com.br/wp-content/uploads/2017/03/fragmentado.jpg?resize=560%2C600&ssl=1",
+          "url": "https://www.youtube.com/embed/7l4SzfMstLE"
+        },
+        {
+          "id": 7,
+          "titulo": "CISNE NEGRO",
+          "imagem": "https://cdn-images-1.medium.com/max/1200/1*FUVJagD4Q9pJ4lhEzTwLww.jpeg",
+          "url": "https://www.youtube.com/embed/4LxWFX5LGq0"
+        },
+        {
+          "id": 8,
+          "titulo": "INIMIGO DO ESTADO",
+          "imagem": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2016/10/enemy.jpg",
+          "url": "https://www.youtube.com/embed/wJcYEHlvTO8"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "TERROR",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "PÁNICO NA FLORESTA 4",
+          "imagem": "https://i.ytimg.com/vi/0UTWhY1QBSw/hqdefault.jpg",
+          "url": "https://www.youtube.com/embed/Dozq7TJhzHo"
+        },
+        {
+          "id": 2,
+          "titulo": "A HORA DO ESPANTO",
+          "imagem": "https://i.ytimg.com/vi/sXXchfcwaUs/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/BOXMXOBaG7M"
+        },
+        {
+          "id": 3,
+          "titulo": "O BEBE DE ROSEMERY",
+          "imagem": "http://2.bp.blogspot.com/-FjELz8F8pnM/Uyg1zPiNiWI/AAAAAAAAID4/HZF1M4mDVV0/s1600/Rosemarys-Baby-1968-Movie-Poster-700x260.jpg",
+          "url": "https://www.youtube.com/embed/447EawGzV7I"
+        },
+        {
+          "id": 4,
+          "titulo": "TERROR NA AGUA",
+          "imagem": "http://3.bp.blogspot.com/-OX2-6jzrLuU/Trsm3-ZoJ0I/AAAAAAAAAgA/kF9cNrLfBZ0/s1600/Shark1.jpg",
+          "url": "https://www.youtube.com/embed/1J7AOJBm7Zw"
+        },
+        {
+          "id": 5,
+          "titulo": "MASSACRE NO TEXAS",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jBb5Jo7G9VY2NzjJFt_eays3287ljBpYCD5d-Lnll2uVIZ1SgA",
+          "url": "https://www.youtube.com/embed/Iz_LXvPbWVw"
+        },
+        {
+          "id": 6,
+          "titulo": "PANICO",
+          "imagem": "https://i0.wp.com/www.fatosdesconhecidos.com.br/wp-content/uploads/2017/08/panico1.jpg?resize=900,420",
+          "url": "https://www.youtube.com/embed/WCzzUe_aOvw"
+        },
+        {
+          "id": 7,
+          "titulo": "ENFERMEIRA ASSASSINA",
+          "imagem": "http://ig-wp-colunistas.s3.amazonaws.com/cineclube/wp-content/uploads/2015/07/Paz.jpg",
+          "url": "https://www.youtube.com/embed/fLekYZTUeQ0"
+        },
+        {
+          "id": 8,
+          "titulo": "PÃNICO 3",
+          "imagem": "http://4.bp.blogspot.com/-2NEttzBdCz8/VJAUF0L7RUI/AAAAAAAAPHg/NUsPXfb5OLA/s1600/Panico%2B3.jpg",
+          "url": "https://www.youtube.com/embed/wby7MI5TNYE"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "AÇÃO",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "LOGAN",
+          "imagem": "https://cdn.cinepop.com.br/2016/10/logan_7-750x380.jpg",
+          "url": "https://www.youtube.com/embed/KPND6SgkN7Q"
+        },
+        {
+          "id": 2,
+          "titulo": "THOR",
+          "imagem": "https://roveran.files.wordpress.com/2017/12/thor-min.jpg?w=816",
+          "url": "https://www.youtube.com/embed/JOddp-nlNvQ"
+        },
+        {
+          "id": 3,
+          "titulo": "THOR RAGNAROK ",
+          "imagem": "https://kanto.legiaodosherois.com.br/w750-h393-gnw-cfill-q80/wp-content/uploads/2017/09/legiao_tLO89YjE5CzxHBenV7cs3rGM2bZFPkqhJANo4gXlmW.jpg.jpeg",
+          "url": "https://www.youtube.com/embed/UvNnqWLruXA"
+        },
+        {
+          "id": 4,
+          "titulo": "HOMEM DE FERRO",
+          "imagem": "http://www.hojenocinema.com/images/u/blog-hoje-no-cinema-nao-homem-de-ferro-4.jpg",
+          "url": "https://www.youtube.com/embed/rFKv3WRgSUs"
+        },
+        {
+          "id": 5,
+          "titulo": "DOUTOR ESTRANHO",
+          "imagem": "https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/38/582x0_1477945785.jpg",
+          "url": "https://www.youtube.com/embed/YUfWrIcX4zw"
+        },
+        {
+          "id": 6,
+          "titulo": "AVENGERS",
+          "imagem": "https://img.ibxk.com.br///2015/03/06/06170820586366-t1200x480.jpg",
+          "url": "https://www.youtube.com/embed/6ZfuNTqbHE8"
+        },
+        {
+          "id": 7,
+          "titulo": "TRANSFORMERS",
+          "imagem": "https://1.bp.blogspot.com/-EdZetgmLCIw/WXtdyfm-F9I/AAAAAAAAP1s/0eSy-rBmLAoPzIgsrlT9WLEfq9w1mCBGwCEwYBhgL/s1600/Transformes%2B-%2BO%2B%25C3%259Altimo%2BCavaleiro.jpg",
+          "url": "https://www.youtube.com/embed/dxQxgAfNzyE"
+        },
+        {
+          "id": 8,
+          "titulo": "VELOZES E FURIOSOS 8",
+          "imagem": "https://i.ytimg.com/vi/f-ngYbx6JZ8/hqdefault.jpg",
+          "url": "https://www.youtube.com/embed/KvSlvtPnZTo"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "AVENTURA",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "PLANETA DOS MACACOS",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEt4aNKRx_d3ckWpVEAAzzgXgYwU_GYSUqbodbA-Ym_JOuq3w",
+          "url": "https://www.youtube.com/embed/QzgWDG4QviU"
+        },
+        {
+          "id": 2,
+          "titulo": "MALEVOLA ",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/Maleficent.jpg/250px-Maleficent.jpg",
+          "url": "https://www.youtube.com/embed/Uqg12lAsydY"
+        },
+        {
+          "id": 3,
+          "titulo": "ROBIN HOOD",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Robin_Hood_2010_poster.jpg/200px-Robin_Hood_2010_poster.jpg",
+          "url": "https://www.youtube.com/embed/wX1s187VUWk"
+        },
+        {
+          "id": 4,
+          "titulo": "JOGOS VORAZES",
+          "imagem": "https://kanto.legiaodosherois.com.br/w750-h393-gnw-cfill-q80/wp-content/uploads/2015/12/e372de652065ff27509c2b3fb27c199f.jpg.jpeg",
+          "url": "https://www.youtube.com/embed/zhW-KWCw92c"
+        },
+        {
+          "id": 5,
+          "titulo": "PIRATAS DO CARIBE",
+          "imagem": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/04/pirates5-1024x634.jpg",
+          "url": "https://www.youtube.com/embed/H8d1pD49JOk"
+        },
+        {
+          "id": 6,
+          "titulo": "GUARDIÕES DA GALAXIA",
+          "imagem": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/12/7-guard.jpg",
+          "url": "https://www.youtube.com/embed/8VN_l57QWyQ"
+        },
+        {
+          "id": 7,
+          "titulo": "DE VOLTA PARA O FUTURO",
+          "imagem": "https://www.tfxbrasil.com/wp-content/uploads/2015/07/tfx-filme-de-volta-para-o-futuro-.jpg",
+          "url": "https://www.youtube.com/embed/qvsgGtivCgs"
+        },
+        {
+          "id": 8,
+          "titulo": "JURASSIC PARK",
+          "imagem": "https://i1.wp.com/astropt.org/blog/wp-content/uploads/2014/06/jp.jpg",
+          "url": "https://www.youtube.com/embed/lc0UehYemQA"
+        }
+      ]
+    }
+  ]
+}
